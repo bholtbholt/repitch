@@ -1,0 +1,12 @@
+{
+  "name": "repitch",
+  "version": "1.0.0",
+  "description": "Re:Pitch is a WebApp for speeding up and resampling audio files. It is written in JS and uses only the WebAudioAPI.",
+  "packageManager": "yarn@4.7.0",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "dev": "yarn http-server -o -c-1 ."
+  }
+}
