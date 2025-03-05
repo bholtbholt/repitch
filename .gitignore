@@ -4,3 +4,11 @@ back2.js
 info.html
 backup.ts
 backtrim.js
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnp.cjs
